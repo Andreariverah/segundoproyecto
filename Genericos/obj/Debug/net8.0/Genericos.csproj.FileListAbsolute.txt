@@ -1,0 +1,28 @@
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\bin\Debug\net8.0\Genericos.exe
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\bin\Debug\net8.0\Genericos.deps.json
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\bin\Debug\net8.0\Genericos.runtimeconfig.json
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\bin\Debug\net8.0\Genericos.dll
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\bin\Debug\net8.0\Genericos.pdb
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\Genericos.AssemblyInfo.cs
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\Genericos.dll
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\refint\Genericos.dll
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\Genericos.pdb
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\Genericos.genruntimeconfig.cache
+C:\Users\ABEL MARIN\Videos\Genericos\Genericos\obj\Debug\net8.0\ref\Genericos.dll
+C:\Users\franc\Downloads\Genericos\Genericos\bin\Debug\net8.0\Genericos.exe
+C:\Users\franc\Downloads\Genericos\Genericos\bin\Debug\net8.0\Genericos.deps.json
+C:\Users\franc\Downloads\Genericos\Genericos\bin\Debug\net8.0\Genericos.runtimeconfig.json
+C:\Users\franc\Downloads\Genericos\Genericos\bin\Debug\net8.0\Genericos.dll
+C:\Users\franc\Downloads\Genericos\Genericos\bin\Debug\net8.0\Genericos.pdb
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\Genericos.AssemblyInfo.cs
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\Genericos.dll
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\refint\Genericos.dll
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\Genericos.pdb
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\Genericos.genruntimeconfig.cache
+C:\Users\franc\Downloads\Genericos\Genericos\obj\Debug\net8.0\ref\Genericos.dll
